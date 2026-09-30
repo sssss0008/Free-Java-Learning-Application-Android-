@@ -1,0 +1,6 @@
+{
+  "name": "Learn Java",
+  "description": "Master Java from zero to advanced: interactive IDE, JVM visualizer, OOP lab, DSA, Spring Boot, exercises, and projects by Awiskar Acharya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

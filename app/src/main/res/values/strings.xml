@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Learn Java</string>
+    <string name="tagline">Learn. Code. Build. Master Java.</string>
+    <string name="creator_name">Awiskar Acharya</string>
+</resources>
